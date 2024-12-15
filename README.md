@@ -1,1 +1,1 @@
-# diabetes-classification
+This is a Flask-based web service integrated with an HTML front-end that predicts the diabetes likelihood of a person based on features like BMI, blood pressure, and age using logistic regression model.
