@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction Web Service
+# 🩺 Diabetes Prediction Web Application
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-Flask-green)
