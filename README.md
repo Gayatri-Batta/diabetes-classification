@@ -5,18 +5,18 @@
 ![ML](https://img.shields.io/badge/Model-Logistic%20Regression-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-## 📌 Overview
+## Overview
 This project is a machine learning-powered web application designed to predict the likelihood of diabetes in patients based on diagnostic measures. 
 
 Built with **Flask** and **Scikit-Learn**, the application utilizes a **Logistic Regression** model to classify patients based on key health indicators such as BMI, Blood Pressure, and Age. The system provides an accessible HTML front-end for real-time user input and prediction.
 
-## 🚀 Key Features
+## Key Features
 * **Real-time Prediction:** Instant classification using a pre-trained ML model.
 * **Web Interface:** User-friendly HTML/CSS front-end for easy data entry.
 * **Lightweight Backend:** Built on Flask for efficient request handling and scalability.
 * **Data-Driven:** Uses standard clinical features (Glucose, BMI, Age, etc.) for analysis.
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **Language:** Python
 * **Web Framework:** Flask
 * **Machine Learning:** Scikit-Learn, Pandas, NumPy
